@@ -14,7 +14,7 @@ The goal was to build a 'test' or 'preliminary' recomendation algorithm given th
 
 There are several files contained in this repository that were created in the course of the project's workflow. The most important project products are as follows:
 
-Data Wrangling Code: Cleaning and wrangling the data was a multi-step process due to the size and format of the data. To see a flow chart of the data cleaning steps go here. Find data wrangling code here.
++ Data Wrangling Code: Cleaning and wrangling the data was a multi-step process due to the size and format of the data. To see a flow chart of the data cleaning steps go here. Find data wrangling code here.
 
 Deep Learning Model Files: Implementation of song popularity, artist popularity, item collaborative filetering and Ranking Matrix Factorization. Find recomender system code here.
 
