@@ -23,7 +23,7 @@ There are several files contained in this repository that were created in the co
 > * Step 5: [Hospitalization Features Cleaning and Exploratory Analysis](https://github.com/IvetteMTapia/Capstone-2_Deep_Learning/blob/master/Code%20-%20Notebooks/Capstone%202_Hospitalization%20EDA%20%26%20Wrangling.ipynb)
 > * Step 6: [Final concatenation of features, training, validation and testing datasets](https://github.com/IvetteMTapia/Capstone-2_Deep_Learning/blob/master/Code%20-%20Notebooks/Capstone%202_Concat%20-%20Train%20-%20Valid%20-%20Test%20Splits.ipynb)
 
-+ **Deep Learning Model:**  Implementation of song popularity, artist popularity, item collaborative filetering and Ranking Matrix Factorization. Find recomender system code here.
++ **Deep Learning Model:**  Implementation of song popularity, artist popularity, item collaborative filetering and Ranking Matrix Factorization. Find recomender system code [here](https://github.com/IvetteMTapia/Capstone-2_Deep_Learning/blob/master/Code%20-%20Notebooks/Feature_Engineering_and_Deep_Learning.ipynb).
 
 + **Reference:** This folder containes files that were used throughout the project as reference. Find reference files [here.](https://github.com/IvetteMTapia/Capstone-2_Deep_Learning/tree/master/Reference)
 
