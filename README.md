@@ -25,4 +25,4 @@ Below are the work products produced during the project's duration.
 
 + **Report:** This report contains in detail business motivation, data wrangling, exploratory analysis, deep learning model architecture, model prerformance results including testing and Kfold cross-validation. Additionally, the report includes recomendations on how to improvethe performance of the model and outlines alternatives. Find full report [here.](https://github.com/IvetteMTapia/Capstone-2_Deep_Learning/blob/master/Reports-Graphics/Capstone%202_Final%20Report.pdf)
 
-+ **Presentation:** The presentation sumarizes the project motivation, findings of exploratory analysis and deep learning model implementation. Find summary presentation here.
++ **Presentation:** The presentation sumarizes the project motivation, findings of exploratory analysis and deep learning model implementation. Find summary presentation [here.](https://github.com/IvetteMTapia/Capstone-2_Deep_Learning/blob/master/Reports-Graphics/Deep%20Learning%20for%20Healthcare%20Presentation.pdf)
